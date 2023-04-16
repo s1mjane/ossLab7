@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bye jane
+=======
+hello pretty jane
+>>>>>>> a7ddaf63be99e875837242fd6c6a73f4f50b5448
